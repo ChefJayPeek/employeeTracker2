@@ -7,8 +7,7 @@ const Jumbotron = () => {
       <p className="lead">This is an employee directory created with React.</p>
       <hr className="my-4" />
       <p>
-        An employee or manager benefits greatly from being able to view
-        non-sensitive data about other employees.
+        Displays non sensitive data about employees, so that other employees can look up information about their coworkers.
       </p>
     </div>
   );
